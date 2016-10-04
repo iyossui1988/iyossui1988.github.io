@@ -78,16 +78,6 @@ nav ul li a.selected{
 
 }
 
-section{
-    padding:30px 20px;
-    margin-left: 150px;
-}
-section h2{
-    padding:10px 0 20px 0;
-    text-align: center;
-    letter-spacing:0.15em;
-}
-
 #contents {
     float:left;
     width:550px;
